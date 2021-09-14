@@ -7,4 +7,6 @@ I am adding things
 
 I can change this file so fast 
 
-I am doing a lot of work. 
+
+I am doing a lot of work. But the other person is not doing much 
+
