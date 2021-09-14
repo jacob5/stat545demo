@@ -1,3 +1,6 @@
 # stat545demo
 Just a demo for in class 
-this is a random sentence 
+
+This is new information. 
+
+I am adding things 
